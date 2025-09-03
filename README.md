@@ -3,8 +3,8 @@
 ## Overview
 A smart, user-friendly expense tracking web application built with **React.js**, **TailwindCSS**, and **Chart.js**. This app allows users to log, manage, filter, and visualize daily expenses. All data is persisted in the browser using **localStorage**, ensuring it remains even after page refreshes.
 
-Deployed Link: [Live Demo]()  
-GitHub Repo: [GitHub Repository]()
+Deployed Link: [Live Demo](https://expensetrackersmart.netlify.app/)  
+GitHub Repo: [GitHub Repository](https://github.com/risudev/Smart-Expense-Tracker-.git)
 
 ## Tech Stack
 
