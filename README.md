@@ -44,8 +44,7 @@ GitHub Repo: [GitHub Repository](https://github.com/risudev/Smart-Expense-Tracke
 - Search and filter entries by date, category, or amount.
 - View summary: total and per-category spending.
 - All data stored in `localStorage`.
-<<<<<<< HEAD
-=======
+
 
 ### ScreenShots
 ![Responsive](/public/Responsive.png)
