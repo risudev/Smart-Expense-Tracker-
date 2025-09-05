@@ -1,6 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import { userContext } from "./Context/userContext";
-import Navbar from "./Components/Navbar";
+//import Navbar from "./Components/Navbar";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
@@ -12,7 +12,7 @@ const App = () => {
   return (
     <>
       <div>
-        <Navbar />
+        {/* <Navbar /> */}
       </div>
       <Routes>
         <Route path="/" element={<Home />} />
